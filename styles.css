@@ -36,6 +36,10 @@ body .content-page {
   height: 100%;
   overflow: auto;
 }
+body .section {
+  background: white;
+  padding: 100px 25px;
+}
 .my-select {
   background: transparent;
   border: 0;
@@ -43,6 +47,9 @@ body .content-page {
 a {
   text-decoration: none;
   color: black;
+}
+img {
+  width: 100%;
 }
 a:hover {
   font-weight: bold;
