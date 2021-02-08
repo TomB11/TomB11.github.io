@@ -131,7 +131,7 @@ __webpack_require__.r(__webpack_exports__);
 
 class AboutUsComponent {
     constructor() {
-        this.photo1 = "assets/img/20142.jpg";
+        this.photo1 = "assets/img/2014.jpg";
         this.photo2 = "assets/img/2017.jpg";
         this.photo3 = "assets/img/loki.jpg";
         this.photo4 = "assets/img/2020.jpg";
