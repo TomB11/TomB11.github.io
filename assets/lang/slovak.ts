@@ -4,7 +4,7 @@ export class Slovak {
   public static navItem3 = 'Svadobný formulár'
   public static navItem4 = 'Kontakt'
 
-  public static bigMainTitle = 'Budeme sa brat'
+  public static bigMainTitle = 'Vzali sme sa'
 
   public static motoText = 'Si môj dnešok a všetky moje zajtrajšky'
 

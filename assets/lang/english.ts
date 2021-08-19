@@ -4,7 +4,7 @@ export class English {
   public static navItem3 = 'Wedding Form'
   public static navItem4 = 'Contact'
 
-  public static bigMainTitle = 'We are getting married'
+  public static bigMainTitle = 'We are married'
 
   public static motoText = 'You are my today and all of my tomorrows'
 

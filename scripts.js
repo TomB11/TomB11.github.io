@@ -4,7 +4,7 @@ export class Slovak {
   public static navItem3 = 'Svadobný formulár'
   public static navItem4 = 'Kontakt'
 
-  public static bigMainTitle = 'Budeme sa brat'
+  public static bigMainTitle = 'Vzali sme sa'
 
   public static motoText = 'Si môj dnešok a všetky moje zajtrajšky'
 
@@ -43,7 +43,7 @@ export class Slovak {
   public static navItem3 = 'Wedding Form'
   public static navItem4 = 'Contact'
 
-  public static bigMainTitle = 'We are getting married'
+  public static bigMainTitle = 'We are married'
 
   public static motoText = 'You are my today and all of my tomorrows'
 
@@ -78,4 +78,3 @@ export class Slovak {
 }
 
 ;
-//# sourceMappingURL=scripts.js.map
